@@ -36,7 +36,7 @@ Test1:
      persons: [p1]
      numberSegments: 15          # number of segments per activity person combination
      sensor: [T_xacc, T_yacc, T_zacc, RA_xacc, RA_yacc, RA_zacc, LA_xacc, LA_yacc, LA_zacc, RL_xacc, RL_yacc, RL_zacc, LL_xacc, LL_yacc, LL_zacc]
-     partialverification: 40
+     partialverification: 40     # percent of verification
 
 Test2:
      activities: [a01, a10, a16, a17, a18]
